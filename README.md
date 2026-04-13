@@ -5,9 +5,9 @@ By running each cell from start to finish, you will be able to create a homograp
 
 ## Installation
 
-Make sure the Jupyter notebook uses a virtual environment (venv) to not pollute your system packages.
+Use a virtual environment (venv) to keep your system packages clean.
 
-This notebook was tested on Python 3.11.12.
+This script was tested on Python 3.11.12.
 
 ```
 python3.11 -m venv venv
